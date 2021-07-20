@@ -17,7 +17,7 @@
 <h2 align='center'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/main/hello.gif" width="30px"></h2>  
 
 <!--  right side image -->
-<img align="right" src="https://github.com/prnbbora4/prnbbora4/blob/main/4884785.jpg"  width="400" height="200">
+<img align="right" src="https://github.com/prnbbora4/prnbbora4/blob/main/4884785.jpg"  width="400" height="220">
 
 <!--  A paragraph about me -->
  
@@ -43,7 +43,6 @@ _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science
 </table>
 </p>
 
-</br>
 </br>
 
 <!--  Programming Languages -->
