@@ -17,7 +17,7 @@
 <h2 align='center'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/main/hello.gif" width="30px"></h2>  
 
 <!--  right side image -->
-<img align="right" src="https://github.com/prnbbora4/prnbbora4/blob/main/IMG_20201101_194401.jpg"  width="500" height="180">
+<img align="right" src="https://github.com/prnbbora4/prnbbora4/blob/main/IMG_20201101_194401.jpg"  width="500" height="250">
 
 <!--  A paragraph about me -->
 _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science & Machine Learning Engineer**. You can see my work down below. I love to code in MERN stack, PhpMySql, Python & Java. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
