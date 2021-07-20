@@ -17,7 +17,7 @@
 <h2 align='center'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/main/hello.gif" width="30px"></h2>  
 
 <!--  right side image -->
-<img align="right" src="https://github.com/prnbbora4/prnbbora4/blob/main/4884785.jpg"  width="500" height="500">
+<img align="right" src="https://github.com/prnbbora4/prnbbora4/blob/main/4884785.jpg"  width="500" height="300">
 
 <!--  A paragraph about me -->
  
