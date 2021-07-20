@@ -102,7 +102,7 @@ _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science
 
 
 <!-- Github stats -->
-<p align="left">
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=prnbbora4&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >  
     </a>
