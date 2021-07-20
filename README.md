@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <!-- heading -->
-<h2 align='center'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/master/wave.gif" width="30px"></h2>  
+<h2 align='center'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/master/hello.gif" width="30px"></h2>  
 
 <!--  right side image -->
 <img align="right" src="https://github.com/prnbbora4/prnbbora4/blob/master/Overview1.gif"  width="500">
