@@ -46,7 +46,7 @@ _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science
 <!--  Programming Languages -->
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table width="100">
+<table width="100" align='center'>
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
