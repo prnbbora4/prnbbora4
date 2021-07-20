@@ -13,11 +13,16 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<!-- heading -->
 <h2 align='center'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/master/wave.gif" width="30px"></h2>  
 
+<!--  right side image -->
 <img align="right" src="https://github.com/prnbbora4/prnbbora4/blob/master/Overview1.gif"  width="500">
 
+<!--  A paragraph about me -->
 _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science & Machine Learning Engineer**. You can see my work down below. I love to code in MERN stack, PhpMySql, Python & Java. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+ 
+<!--  Social Media Links -->
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
@@ -34,3 +39,74 @@ _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science
     </td>
 </tr>
 </table>
+</p>
+
+</br>
+
+<!--  Programming Languages -->
+<h2 align='center'><i>Languages and Tools</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+</tr>
+</table>
+
+
+<!-- Github stats -->
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=prnbbora4&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >  
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnbbora4&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
+    </a>
+</p>
