@@ -39,6 +39,9 @@ _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science
     <td align='center' width="60">
         <a href="https://www.linkedin.com/in/pranab-bora-6084a4169/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
     </td>
+   <td align='center' width="60">
+        <a href="mailto:prnbbora4@gmail.com"><img src="https://github.com/prnbbora4/prnbbora4/blob/main/gmail.png" width="60"></a>
+   </td>
 </tr>
 </table>
 </p>
