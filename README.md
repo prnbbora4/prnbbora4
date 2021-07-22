@@ -100,6 +100,23 @@ _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
 </tr>
+ <tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/android/android-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-ar21.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+</tr>
 </table>
 
 </br>
