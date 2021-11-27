@@ -31,13 +31,13 @@ _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/pranab889bora"><img src="https://image.flaticon.com/icons/svg/2111/2111703.svg" width="60"></a>
+        <a href="https://twitter.com/pranab889bora"><img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1638000871~hmac=1c4980a37f3c903f5b083b9e7adb0ca1" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/prnbbora4/"><img src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>
+        <a href="https://www.instagram.com/prnbbora4/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/pranab-bora-6084a4169/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
+        <a href="https://www.linkedin.com/in/pranab-bora-6084a4169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60"></a>
     </td>
    <td align='center' width="60">
         <a href="mailto:prnbbora4@gmail.com"><img src="https://github.com/prnbbora4/prnbbora4/blob/main/gmail.png" width="60"></a>
