@@ -31,7 +31,7 @@ _Hello there this is **Pranab Bora**. A **Full Stack Web Developer, Data Science
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/pranab889bora"><img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1638000871~hmac=1c4980a37f3c903f5b083b9e7adb0ca1" width="60"></a>
+        <a href="https://twitter.com/pranab889bora"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="60"></a>
     </td>
     <td align='center' width="60">
         <a href="https://www.instagram.com/prnbbora4/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
