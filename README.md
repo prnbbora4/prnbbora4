@@ -21,7 +21,7 @@
 
 <!--  A paragraph about me -->
  
-_Hello there this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machine Learning Enthusiast**. You can see my work down below. I love to code in Javascript & Typescript, MERN stack, Php, Python. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+_Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machine Learning Enthusiast**. You can see my work down below. I love to code in Javascript & Typescript, MERN stack, Php, Python. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 
  
 <!--  Social Media Links -->
