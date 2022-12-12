@@ -125,7 +125,7 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
 </br>
 <!-- Github stats -->
 
- ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api?username=prnbbora4&theme=dark&show_icons=true&cache_seconds=1900&count_private=true)
+ ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api?username=prnbbora4&show_icons=true&theme=dark)
 
 <!-- <p align="center">
     <a href="https://github.com/prnbbora4/github-readme-stats">
