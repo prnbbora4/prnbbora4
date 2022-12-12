@@ -124,11 +124,15 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
 
 </br>
 <!-- Github stats -->
-<p align="center">
+
+ ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api?username=prnbbora4&show_icons=true)
+
+<!-- <p align="center">
     <a href="https://github.com/prnbbora4/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=prnbbora4&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >  
     </a>
+ 
     <a href="https://github.com/prnbbora4/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnbbora4&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
     </a>
-</p>
+</p> -->
