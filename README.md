@@ -111,7 +111,7 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
         <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="60">
     </td>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" width="60">
