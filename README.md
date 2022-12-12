@@ -17,7 +17,7 @@
 <h2 align='center'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/main/hello.gif" width="30px"></h2>  
 
 <!--  right side image -->
-<img align="right" src="https://github.com/prnbbora4/prnbbora4/blob/main/4884785.jpg"  width="400" height="220">
+<img align="right" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg"  width="380" height="250">
 
 <!--  A paragraph about me -->
  
