@@ -21,7 +21,7 @@
 
 <!--  A paragraph about me -->
  
-_Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machine Learning Enthusiast**. You can see my work down below. I love to code in Javascript & Typescript, MERN stack, Php, Python. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+_Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machine Learning Enthusiast**. You can see my work down below. I love to code in Javascript & Typescript, MERN stack, Php, Python. You can connect with me on social media, I would love to have you in my life._  
 
  
 <!--  Social Media Links -->
@@ -40,7 +40,7 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
         <a href="https://www.linkedin.com/in/pranab-bora-6084a4169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60"></a>
     </td>
    <td align='center' width="60">
-        <a href="mailto:prnbbora4@gmail.com"><img src="https://github.com/prnbbora4/prnbbora4/blob/main/gmail.png" width="60"></a>
+        <a href="mailto:prnbbora4@gmail.com"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" width="60"></a>
    </td>
 </tr>
 </table>
