@@ -130,9 +130,19 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
 
 </br>
 <!-- Github stats -->
-
- ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api?username=prnbbora4&show_icons=true&theme=dark)
- ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prnbbora4&theme=dark&layout=compact)
+<table  width="100" align='center'>
+ <tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=prnbbora4&theme=dark&show_icons=true" alt="GitHub stats" height="190" > 
+  </td>
+  
+   <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prnbbora4&theme=dark&layout=compact" alt="Top Langs" heigth="190">
+  </td>
+ </tr>
+ </table>
+<!--  ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api?username=prnbbora4&show_icons=true&theme=dark) -->
+<!--  ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prnbbora4&theme=dark&layout=compact) -->
 
 <!-- <p align="center">
     <a href="https://github.com/prnbbora4/github-readme-stats">
@@ -140,6 +150,6 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
     </a>
  
     <a href="https://github.com/prnbbora4/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prnbbora4&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prnbbora4&theme=dark&layout=compact" alt="Top Langs" heigth="190">
     </a>
 </p> -->
