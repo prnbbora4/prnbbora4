@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <!-- heading -->
-<h2 align='center'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/main/hello.gif" width="30px"></h2>  
+<h2 align='left'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/main/hello.gif" width="30px"></h2>  
 
 <!--  right side image -->
 <img align="right" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg"  width="380" height="250">
@@ -48,8 +48,14 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
 
 </br>
 
+
+<!--  Currently Working -->
+<h2 align='left'><i>Currently Working</i></h2>
+- Developing No-Code OTT Solution at Right Hemisphere, Guwahati, Assam
+
+
 <!--  Programming Languages -->
-<h2 align='center'><i>Languages and Tools</i></h2>
+<h2 align='left'><i>Languages and Tools</i></h2>
 
 <table width="100" align='center'>
 <tr height='70'>
