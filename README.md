@@ -21,7 +21,9 @@
 
 <!--  A paragraph about me -->
  
-_Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machine Learning Enthusiast**. You can see my work down below. I love to code in Javascript & Typescript, MERN stack, Php, Python. You can connect with me on social media, I would love to have you in my life._  
+_Hello, this is **Pranab Bora**. I am a highly motivated frontend developer with over 3 years of experience in building
+scalable applications using React Js, Next Js, and React Native. I have strong skills in
+developing REST APIs and working within Agile teams. Quick learner with strong problemsolving and debugging skills._  
 
  
 <!--  Social Media Links -->
@@ -51,8 +53,9 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
 
 <!--  Currently Working -->
 <h2 align='left'><i>Currently Working</i></h2>
-- Developing No-Code OTT Solution at Right Hemisphere, Guwahati, Assam
-
+- Working with a No-Code OTT Solution (Skara) at Flixbox Solutions LLP, Guwahati, Assam. </br>
+- Also working with a truly fully customizable web video player (Splay) lets you host and stream
+videos on your website
 
 <!--  Programming Languages -->
 <h2 align='left'><i>Languages and Tools</i></h2>
@@ -130,6 +133,7 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
 
 </br>
 <!-- Github stats -->
+<!--
 <table  width="100" align='center'>
  <tr>
   <td>
@@ -141,6 +145,7 @@ _Hello, this is **Pranab Bora**. A **Full Stack Developer, Data Science & Machin
   </td>
  </tr>
  </table>
+ -->
 <!--  ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api?username=prnbbora4&show_icons=true&theme=dark) -->
 <!--  ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prnbbora4&theme=dark&layout=compact) -->
 
