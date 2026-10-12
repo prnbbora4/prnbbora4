@@ -15,7 +15,7 @@ I'm a software developer with **5+ years of experience** building scalable, resp
 
 ### 🚀 What I'm Working On
 
-**Sato Player (Splay)**  
+**Sato Video Player**  
 Developing a customizable web video player that enables businesses to host, customize, and embed videos on their websites.
 
 **Skara — OTT Solutions**  
