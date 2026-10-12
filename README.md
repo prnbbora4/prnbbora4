@@ -2,12 +2,13 @@
 
 ### Frontend Developer | React.js · Next.js · React Native
 
-I'm a frontend developer with **3+ years of experience** building scalable, responsive, and user-friendly web applications. I enjoy creating intuitive user experiences, integrating REST APIs, debugging complex issues, and turning ideas into reliable software.
+I'm a software developer with **5+ years of experience** building scalable, responsive, and user-friendly web applications. I specialize in frontend development while also working with backend technologies to build reliable, full-featured applications. I enjoy creating intuitive user experiences, integrating REST APIs, debugging complex issues, and turning ideas into production-ready software.
 
 - 💻 Specializing in **React.js, Next.js, TypeScript, and React Native**
 - 🎥 Working on customizable video player technology and no-code OTT solutions
-- 🔌 Experienced in REST API integration and full-stack collaboration
-- 🤝 Comfortable working in Agile teams and collaborating across disciplines
+- 🔌 Experienced in REST API integration and full-stack development
+- 🐘 Familiar with backend development using **PHP and Laravel**
+- 🤝 Experienced in Agile teamwork, collaboration, and problem-solving
 - 🌱 Always learning, building, and exploring new technologies
 
 ---
@@ -24,7 +25,7 @@ Contributing to a no-code OTT platform at Flixbox Solutions LLP, Guwahati, Assam
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+**Frontend Development**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,20 +35,37 @@ Contributing to a no-code OTT platform at Flixbox Solutions LLP, Guwahati, Assam
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Database**
+**Backend Development**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Database & Cloud**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Other Technologies**
+**Programming Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -76,4 +94,4 @@ Contributing to a no-code OTT platform at Flixbox Solutions LLP, Guwahati, Assam
 
 ---
 
-*Building thoughtful user experiences, one component at a time.* ✨
+*Building thoughtful user experiences and scalable software, one component at a time.* ✨
