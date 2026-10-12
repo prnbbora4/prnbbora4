@@ -1,160 +1,79 @@
-<!-- ### Hi there 👋
- -->
-<!--
-**prnbbora4/prnbbora4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!-- Here are some ideas to get you started:
+# Hi, I'm Pranab Bora 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<!-- heading -->
-<h2 align='left'> <i>Hello, Alias! <img src="https://github.com/prnbbora4/prnbbora4/blob/main/hello.gif" width="30px"></h2>  
+### Frontend Developer | React.js · Next.js · React Native
 
-<!--  right side image -->
-<img align="right" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg"  width="380" height="250">
+I'm a frontend developer with **3+ years of experience** building scalable, responsive, and user-friendly web applications. I enjoy creating intuitive user experiences, integrating REST APIs, debugging complex issues, and turning ideas into reliable software.
 
-<!--  A paragraph about me -->
- 
-_Hello, this is **Pranab Bora**. I am a highly motivated frontend developer with over 3 years of experience in building
-scalable applications using React Js, Next Js, and React Native. I have strong skills in
-developing REST APIs and working within Agile teams. Quick learner with strong problemsolving and debugging skills._  
+- 💻 Specializing in **React.js, Next.js, TypeScript, and React Native**
+- 🎥 Working on customizable video player technology and no-code OTT solutions
+- 🔌 Experienced in REST API integration and full-stack collaboration
+- 🤝 Comfortable working in Agile teams and collaborating across disciplines
+- 🌱 Always learning, building, and exploring new technologies
 
- 
-<!--  Social Media Links -->
-<h3 align='center'><i>Social Media Handles</i></h3>
-<p align='center'>
- 
-<table width="100" align='center'>
-<tr>
-    <td align='center' width="60">
-        <a href="https://twitter.com/pranab889bora"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.instagram.com/prnbbora4/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/pranab-bora-6084a4169/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60"></a>
-    </td>
-   <td align='center' width="60">
-        <a href="mailto:prnbbora4@gmail.com"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" width="60"></a>
-   </td>
-</tr>
-</table>
+---
+
+### 🚀 What I'm Working On
+
+**Sato Player (Splay)**  
+Developing a customizable web video player that enables businesses to host, customize, and embed videos on their websites.
+
+**Skara — OTT Solutions**  
+Contributing to a no-code OTT platform at Flixbox Solutions LLP, Guwahati, Assam.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & Other Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prnbbora4&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="Pranab's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnbbora4&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most used programming languages" />
 </p>
 
-</br>
+---
 
+### 🤝 Connect With Me
 
-<!--  Currently Working -->
-<h2 align='left'><i>Currently Working</i></h2>
-- Working with a No-Code OTT Solution (Skara) at Flixbox Solutions LLP, Guwahati, Assam. </br>
-- Also working with a truly fully customizable web video player (Splay) lets you host and stream
-videos on your website
+<p>
+  <a href="https://www.linkedin.com/in/pranab-bora-6084a4169/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:prnbbora4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pranab" />
+  </a>
+  <a href="https://twitter.com/pranab889bora">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
+  </a>
+</p>
 
-<!--  Programming Languages -->
-<h2 align='left'><i>Languages and Tools</i></h2>
+---
 
-<table width="100" align='center'>
-<tr height='70'>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" >
-    </td>
-     <td align='center' width="190" background-color="white">
-        <img src="https://miro.medium.com/max/800/1*fKV3_Y4usDYZKPsNp1yCvA.png">
-    </td>
-    <td align='center' width="190">
-        <img src="https://miro.medium.com/max/1000/1*kQ11_TLArd7xGuWiSomBSg.png">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png" width="120">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-</tr>
-<tr height='80'>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.netlify.com/v3/img/components/full-logo-dark.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
-</tr>
- <tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="60">
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-    </td>
-</tr>
-</table>
-
-</br>
-<!-- Github stats -->
-<!--
-<table  width="100" align='center'>
- <tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=prnbbora4&theme=dark&show_icons=true" alt="GitHub stats" height="190" > 
-  </td>
-  
-   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prnbbora4&theme=dark&layout=compact" alt="Top Langs" heigth="190">
-  </td>
- </tr>
- </table>
- -->
-<!--  ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api?username=prnbbora4&show_icons=true&theme=dark) -->
-<!--  ![prnbbora4's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prnbbora4&theme=dark&layout=compact) -->
-
-<!-- <p align="center">
-    <a href="https://github.com/prnbbora4/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=prnbbora4&theme=dark&show_icons=true" alt="GitHub stats" height="190" >  
-    </a>
- 
-    <a href="https://github.com/prnbbora4/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prnbbora4&theme=dark&layout=compact" alt="Top Langs" heigth="190">
-    </a>
-</p> -->
+*Building thoughtful user experiences, one component at a time.* ✨
