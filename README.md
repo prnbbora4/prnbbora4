@@ -16,12 +16,12 @@ I'm a software developer with **5+ years of experience** building scalable, resp
 ### 🚀 What I'm Working On
 
 **Sato Video Player - Customizable Video Player & Plugin**  
-• Developed and maintained scalable video player plugins for Canva, Framer, WordPress, and Webflow, expanding platform reach and accessibility.
-• Streamlined third-party website builder integrations to simplify video embedding, content management, and cross-browser playback consistency.
+- Developed and maintained scalable video player plugins for Canva, Framer, WordPress, and Webflow, expanding platform reach and accessibility.
+- Streamlined third-party website builder integrations to simplify video embedding, content management, and cross-browser playback consistency.
 
 **Skara - No-Code Video Streaming Platform**  
-• Contributed to core frontend development for a no-code video-on-demand streaming platform targeted at creators and businesses.
-• Enhanced UI components and dashboard workflows, enabling non-technical users to seamlessly launch and manage streaming services.
+- Contributed to core frontend development for a no-code video-on-demand streaming platform targeted at creators and businesses.
+- Enhanced UI components and dashboard workflows, enabling non-technical users to seamlessly launch and manage streaming services.
 
 ---
 
