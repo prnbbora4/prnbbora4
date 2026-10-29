@@ -1,10 +1,10 @@
 # Hi, I'm Pranab Bora 👋
 
-### Software Engineer | React.js · Next.js · React Native
+### Software Engineer | React.js · Next.js · React Native · PHP · Laravel · MySQL
 
 I'm a software developer with **5+ years of experience** building scalable, responsive, and user-friendly web applications. I specialize in frontend development while also working with backend technologies to build reliable, full-featured applications. I enjoy creating intuitive user experiences, integrating REST APIs, debugging complex issues, and turning ideas into production-ready software.
 
-- 💻 Specializing in **React.js, Next.js, TypeScript, and React Native**
+- 💻 Specializing in **React.js, Next.js, TypeScript, React Native, PHP and Laravel**
 - 🎥 Working on customizable video player technology and no-code OTT solutions
 - 🔌 Experienced in REST API integration and full-stack development
 - 🐘 Familiar with backend development using **PHP and Laravel**
@@ -15,15 +15,13 @@ I'm a software developer with **5+ years of experience** building scalable, resp
 
 ### 🚀 What I'm Working On
 
-**Sato Video Player**  
-Developing a customizable web video player that enables businesses to host, customize, and embed videos on their websites.
+**Sato Video Player - Customizable Video Player & Plugin**  
+• Developed and maintained scalable video player plugins for Canva, Framer, WordPress, and Webflow, expanding platform reach and accessibility.
+• Streamlined third-party website builder integrations to simplify video embedding, content management, and cross-browser playback consistency.
 
-**Skara — OTT Solutions**  
-Contributing to a no-code OTT platform at Flixbox Solutions Pvt. Ltd., India.
-
-**razorpay.com/d2c-retail-summit**  
-
-**lupin**
+**Skara - No-Code Video Streaming Platform**  
+• Contributed to core frontend development for a no-code video-on-demand streaming platform targeted at creators and businesses.
+• Enhanced UI components and dashboard workflows, enabling non-technical users to seamlessly launch and manage streaming services.
 
 ---
 
